@@ -1,10 +1,12 @@
-# Cyber-Security-Kansa-Software-Installation for incident reponse Framwork (Cyber Security)
+          Cyber-Security-Kansa-Software-Installation for incident reponse Framwork (Cyber Security)
 
-Kansa Installation Guide
+          Kansa Installation Guide
 
 •	Download the zip folder and unzip at specific location in your computer. 
 
-•	Download Microsoft powershell https://docs.microsoft.com/en-us/powershell/scripting/windows-powershell/install/installing-windows-powershell?view=powershell-7.2
+•	Download Microsoft powershell 
+
+          https://docs.microsoft.com/en-us/powershell/scripting/windows-powershell/install/installing-windows-powershell?view=powershell-7.2
 
 •	First make sure is that ExecutionPolicy of power shell and make it Executionable by instruction given in below link on Adminstrator powershell ( Right click on                     powershell on run adminstrator)
 
@@ -15,3 +17,7 @@ Kansa Installation Guide
           PS C:\Users\jamal\kansa-master> dir
           
           Please find attached snap shots for further overlook commands guidance.  
+         
+         
+- Written by Jamal Hussain Shah 
+- Email: jamalhoseinshah@gmail.com 
